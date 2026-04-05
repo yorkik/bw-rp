@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/gregrogers/warren/gregrogers_warren_facemap_g03m"
+//	"$color2" "[.9 .9 .9]"
+	"$halflambert" 1
+}

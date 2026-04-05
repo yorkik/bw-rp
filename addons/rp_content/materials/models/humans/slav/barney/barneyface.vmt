@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\humans\slav\barney\barneyface"
+	"$bumpmap" "models\humans\slav\barney\barneyface_normal"
+	$phong 0
+	$phongboost "1.4"
+	$phongexponent 12
+	$phongtint "[.15 .15 15]"
+	
+	$ambientocclusion 1
+	$halflambert 0
+	$diffuseexp "1.5"
+}

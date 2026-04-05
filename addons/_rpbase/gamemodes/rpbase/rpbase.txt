@@ -1,0 +1,16 @@
+"rpbase" 
+{ 
+	"base"          "base" 
+	"title"		"RP"
+	"category"	"rp"
+	"maps"		"^rp_"
+	"menusystem"	"1"
+
+    "author_name"   "Fuzzy & Romanop435"
+    "author_email"  ""
+    "author_url"    "https://steamcommunity.com/id/yorkik/"
+
+    "icon"  ""
+    "info"  ""
+    "hide"  "0"
+}

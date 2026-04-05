@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/humans/slav/eli/eli_headz"
+      "$bumpmap" "models/eli/eli_head_normal"
+	"$halflambert" 1
+		"$nodecal" "1"
+
+}

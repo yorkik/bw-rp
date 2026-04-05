@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\humans\slav\mossman\mossman_face"
+	"$bumpmap" "models\humans\slav\mossman\mossman_head_normal"
+	"$halflambert" 1
+	"$nodecal" "1"
+	
+	//"$phong" 1
+	//"$phongboost" 0.1
+	//"$phongexponent" 0.5
+	//"$phongtint" "[1 1 1]"
+	//"$phongfresnelranges" "[0.2 .85 30]"
+	//"$phongalbedotint" "1"
+	
+	"$detail"			"models\humans\slav\mossman\detail"
+	"$detailscale"		"15"
+	"$detailblendmode"		"0"
+}
